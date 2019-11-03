@@ -46,6 +46,7 @@ namespace Lab02
             //Question 5: What is the difference between a class and an object? How many instances of a class can we create?
             //Answer: A class houses methods that accomplish certain tasks assigned to the class.  An object, as I understand it, is what allows the class to perform the tasks it describes. A class can't operate without objects.
             //cont. You can have multiple instances of a class, which are needed to have that class perform the task that it's designed for.
+
         }
     }
 }
