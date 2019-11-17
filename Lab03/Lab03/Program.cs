@@ -81,3 +81,19 @@ namespace Lab03
         }
     }
 }
+int i = 1;
+            while (i< 100)
+            {
+                Console.Write("");
+                Console.WriteLine(i); i++;
+
+                if ((i % 2) == 0)
+                {
+                    Console.WriteLine("Odd");
+                    Console.ReadLine();
+                }
+                else
+                {
+                    Console.WriteLine("Even");
+                    Console.ReadLine();
+                }
